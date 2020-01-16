@@ -3,3 +3,4 @@
 .bundle
 __pycache__
 *.pyc
+plateiq_env
