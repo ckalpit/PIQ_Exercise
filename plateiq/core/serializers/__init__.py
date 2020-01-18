@@ -1,0 +1,1 @@
+from .common_serializer import AddressSerializer

@@ -1,8 +1,14 @@
 asgiref==3.2.3
-Django==3.0.2
+certifi==2019.11.28
+chardet==3.0.4
+Django==2.2.9
 django-filter==2.2.0
-djangorestframework==3.11.0
+djangorestframework==3.10.3
+dynamic-rest==1.9.6
+idna==2.8
+inflection==0.3.1
 Markdown==3.1.1
 pytz==2019.3
+requests==2.22.0
 sqlparse==0.3.0
-wheel==0.24.0
+urllib3==1.25.7
