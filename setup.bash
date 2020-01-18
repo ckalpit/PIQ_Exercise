@@ -1,8 +1,8 @@
 #!/bin/bash
 # this is presuming that the machine has latest virtualenv installed as older version of virtula env causes issue while running through bash
-#virtualenv -p /usr/bin/python3 plateiq_env
-#source ./plateiq_env/bin/activate
-#pip install -Ur requirements.txt
+virtualenv -p /usr/bin/python3 plateiq_env
+source ./plateiq_env/bin/activate
+pip install -Ur requirements.txt
 
 echo "Initial Setup Done"
 echo ""
